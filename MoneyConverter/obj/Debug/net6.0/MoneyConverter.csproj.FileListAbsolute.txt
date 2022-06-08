@@ -1,0 +1,15 @@
+D:\projects\MoneyConverter\MoneyConverter\bin\Debug\net6.0\MoneyConverter.exe
+D:\projects\MoneyConverter\MoneyConverter\bin\Debug\net6.0\MoneyConverter.deps.json
+D:\projects\MoneyConverter\MoneyConverter\bin\Debug\net6.0\MoneyConverter.runtimeconfig.json
+D:\projects\MoneyConverter\MoneyConverter\bin\Debug\net6.0\MoneyConverter.dll
+D:\projects\MoneyConverter\MoneyConverter\bin\Debug\net6.0\MoneyConverter.pdb
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.csproj.AssemblyReference.cache
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.AssemblyInfoInputs.cache
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.AssemblyInfo.cs
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.csproj.CoreCompileInputs.cache
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.dll
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\refint\MoneyConverter.dll
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.pdb
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\MoneyConverter.genruntimeconfig.cache
+D:\projects\MoneyConverter\MoneyConverter\obj\Debug\net6.0\ref\MoneyConverter.dll

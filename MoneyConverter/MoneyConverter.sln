@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyConverter", "MoneyConverter.csproj", "{18B4A493-2BE9-40A6-A7F7-57711B39447D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B4A493-2BE9-40A6-A7F7-57711B39447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B4A493-2BE9-40A6-A7F7-57711B39447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B4A493-2BE9-40A6-A7F7-57711B39447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B4A493-2BE9-40A6-A7F7-57711B39447D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187A80CD-C6A3-46CC-A8EE-D2A6B2FE2475}
+	EndGlobalSection
+EndGlobal
